@@ -1,10 +1,12 @@
 # Semantic Tags
-Header 
+## Changes made to Header 
 - Removed header as class and replaced with header element + updated the css accordingly
 - Replaced div with nav element for navbar + updated css accordingly
 
-Footer
+## Changes made to Footer
 - removed footer as class and replaced with footer html element + updated the CSS accordingly
 
-Body
-- 
+## Changes made to Body
+- Changed Body element to main html element
+- Replaced div with article to clearly identify the sections
+- Introduced aside html for the lead generation
