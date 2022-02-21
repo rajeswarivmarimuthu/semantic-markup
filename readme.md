@@ -9,4 +9,6 @@
 ## Changes made to Body
 - Changed Body element to main html element
 - Replaced div with article to clearly identify the sections
-- Introduced aside html for the lead generation
+- Introduced aside html for the lead generation segment 
+- Introducing figure and figcaption for images in articles+ updated css accordingly
+- Left the images in the aside tag as is + added alt attributes to the images
