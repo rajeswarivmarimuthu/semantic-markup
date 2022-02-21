@@ -7,4 +7,7 @@ Challenge is to refactor the HTML and CSS code of a marketing site to meet the a
 Access Deployed Site @ https://rajeswarivmarimuthu.github.io/semantic-markup <br/>
 Access Code @ https://github.com/rajeswarivmarimuthu/semantic-markup
 
-![image](./Assets/images/Horiseon.png)
+![image](https://github.com/rajeswarivmarimuthu/semantic-markup/blob/main/assets/images/Horiseon.png)
+
+
+
